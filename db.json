@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+			"questionText": "WWhich language is used to style web pages",
+			"answerOptions": [
+				{ "answerText": "javascript", "isCorrect": false },
+				{ "answerText": "React", "isCorrect": false },
+				{ "answerText": "Node", "isCorrect": false },
+				{ "answerText": "Css", "isCorrect": true }
+			]
+		},
+        {
+			"questionText": "which of these is not a javascript framework",
+			"answerOptions": [
+				{ "answerText": "C++", "isCorrect": true },
+				{ "answerText": "React", "isCorrect": false },
+				{ "answerText": "Angular", "isCorrect": true },
+				{ "answerText": "Vue", "isCorrect": true }
+			]
+		},
+        {
+			"questionText": "which of these describes the markup of a web page",
+			"answerOptions": [
+				{ "answerText": "java", "isCorrect": false },
+				{ "answerText": "Spring", "isCorrect": false },
+				{ "answerText": "HTML", "isCorrect": true },
+				{ "answerText": "Xml", "isCorrect": false }
+			]
+		},
+        {
+			"questionText": "Java was created by",
+			"answerOptions": [
+				{ "answerText": "Aliko dangote", "isCorrect": false },
+				{ "answerText": "Bill gates", "isCorrect": false },
+				{ "answerText": "Steve jobs", "isCorrect": false },
+				{ "answerText": "James Goosling", "isCorrect": true }
+			]
+		},
+        {
+			"questionText": "which of these languguges is the king of data science",
+			"answerOptions": [
+				{ "answerText": "C++", "isCorrect": false },
+				{ "answerText": "C#", "isCorrect": false },
+				{ "answerText": "Ruby", "isCorrect": false },
+				{ "answerText": "python", "isCorrect": true }
+			]
+		}
+    ]
+}

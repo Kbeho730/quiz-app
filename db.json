@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-			"questionText": "WWhich language is used to style web pages",
+			"questionText": "Which language is used to style web pages",
 			"answerOptions": [
 				{ "answerText": "javascript", "isCorrect": false },
 				{ "answerText": "React", "isCorrect": false },
